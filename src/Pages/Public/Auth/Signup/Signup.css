@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center the container */
+    justify-content: center; /* Vertically center the container */
+    height: 100vh; /* Adjust height as needed */
+}
+
+.Logo-container{
+    margin-bottom: 50px;
+}
+
+.button-container {
+    width: 100%; /* Ensure the button container takes full width */
+    max-width: 300px; /* Limit the width to prevent it from stretching too much */
+    margin-top: 20px; /* Add margin at the top for spacing */
+}
+
+.text-font {  
+    font-size: 50px; /* Adjust font size as needed */
+    letter-spacing: 0.05px; /* Adjust letter spacing as needed */
+}
+
+.input-container{
+    width: 300px;
+}
+
+
